@@ -21,6 +21,6 @@ public class MathOperation implements IOperation<Integer> {
         if (DivideBy == 0)
             return 0;
         else
-            return Value/DivideBy;
+            return Value / DivideBy;
     }
 }
