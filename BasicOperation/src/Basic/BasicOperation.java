@@ -1,4 +1,4 @@
-package src.Test.Basic;
+package Basic;
 
 public class BasicOperation {
 

@@ -1,4 +1,4 @@
-package src.Test.Basic;
+package Basic;
 
 public interface IOperation<T> {
     T Add(T FirstValue, T SecondValue);
