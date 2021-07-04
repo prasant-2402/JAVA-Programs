@@ -1,4 +1,4 @@
-package Test.Basic;
+package src.Test.Basic;
 
 public class MathOperation implements IOperation<Integer> {
     @Override
